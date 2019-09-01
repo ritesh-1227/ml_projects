@@ -1,0 +1,43 @@
+Batch size = 32
+classification_report:
+  
+
+ precision    recall  f1-score   support
+
+     Class-0       0.84      0.85      0.85      1000
+     Class-1       0.99      0.98      0.99      1000
+     Class-2       0.86      0.88      0.87      1000
+     Class-3       0.93      0.90      0.91      1000
+     Class-4       0.86      0.88      0.87      1000
+     Class-5       0.98      0.97      0.98      1000
+     Class-6       0.76      0.75      0.75      1000
+     Class-7       0.96      0.95      0.95      1000
+     Class-8       0.98      0.97      0.98      1000
+     Class-9       0.95      0.97      0.96      1000
+
+    accuracy                           0.91     10000
+   macro avg       0.91      0.91      0.91     10000
+weighted avg       0.91      0.91      0.91     10000
+
+
+Batch size  = 64
+classification_report :
+
+
+	 precision    recall  f1-score   support
+
+     Class-0       0.89      0.81      0.85      1000
+     Class-1       0.98      0.98      0.98      1000
+     Class-2       0.89      0.83      0.86      1000
+     Class-3       0.89      0.94      0.91      1000
+     Class-4       0.87      0.88      0.88      1000
+     Class-5       0.98      0.97      0.98      1000
+     Class-6       0.73      0.81      0.77      1000
+     Class-7       0.95      0.96      0.96      1000
+     Class-8       0.98      0.98      0.98      1000
+     Class-9       0.96      0.96      0.96      1000
+
+    accuracy                           0.91     10000
+   macro avg       0.91      0.91      0.91     10000
+weighted avg       0.91      0.91      0.91     10000
+
